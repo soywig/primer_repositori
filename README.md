@@ -1,2 +1,5 @@
-# primer_repositori
-Aquest és el primer repositori que creem a classe.
+# Projecte 2
+
+**Lucas Rubio**  
+SMX 2n B  
+:)
