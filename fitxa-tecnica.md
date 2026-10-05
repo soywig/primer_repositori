@@ -28,6 +28,20 @@ _Configuració de exemple._
 8. Reiniciar el sistema quan l’instal·lador ho indiqui i retirar la ISO o la memòria USB.
 9. Iniciar sessió amb l’usuari creat.
 
+Veuràs una pantalla com aquesta:
+
+```text
+Welcome to Ubuntu 26.04 LTS (GNU/Linux 6.14.0-xx-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+Last login: Mon Oct 5 10:30:00 2026 from 192.168.1.10
+
+usuari@ubuntu-server:~$
+```
+
 
 ## Comprovacions
 
