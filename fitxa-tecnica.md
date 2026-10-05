@@ -2,20 +2,24 @@
 
 ## Objectiu
 
-Documentar el procés d’instal·lació d’Ubuntu Server 26.04 de manera clara i ordenada.
+Documentar el procés d’instal·lació d’**Ubuntu Server 26.04** de manera clara i ordenada.
 Recollir les comprovacions realitzades i les possibles incidències durant la instal·lació.
 
 ## Materials
 
-- [] Ordinador o màquina virtual amb connexió a Internet.
-- [] Imatge ISO d’Ubuntu Server 26.04.
-- [] Memòria USB d’arrencada o eina de virtualització.
-- [] Usuari i contrasenya per configurar el sistema.
+- [ ] Ordinador o màquina virtual amb connexió a Internet.
+- [ ] Imatge ISO d’Ubuntu Server 26.04.
+- [ ] Memòria USB d’arrencada o eina de virtualització.
+- [ ] Usuari i contrasenya per configurar el sistema.
 
 ## Procediment
 
-1. Descarregar la imatge ISO d’Ubuntu Server 26.04 des del lloc web oficial.
-2. Crear una màquina virtual o preparar una memòria USB d’arrencada amb la ISO.
+1. **Descarregar** la imatge ISO d’Ubuntu Server 26.04 des del [lloc web oficial](https://ubuntu.com/download/server).
+2. Crear una màquina virtual _(per exemple, a VirtualBox)_ o preparar una memòria USB d’arrencada amb la ISO.
+
+![Configuració de exemple.](assets/server_config.png)
+_Configuració de exemple._
+
 3. Iniciar l’ordinador o la màquina virtual des de la ISO.
 4. Seleccionar l’idioma, la distribució del teclat i la configuració de xarxa.
 5. Escollir el disc d’instal·lació i confirmar-ne l’ús.
