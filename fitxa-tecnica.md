@@ -27,7 +27,18 @@ Recollir les comprovacions realitzades i les possibles incidències durant la in
 
 ## Comprovacions
 
+- [ ] El sistema inicia correctament sense la ISO d’instal·lació.
+- [ ] La xarxa funciona i l’equip té una adreça IP.
+- [ ] L’usuari creat pot iniciar sessió.
+- [ ] Es pot obrir un terminal i executar una ordre, per exemple `ip addr`.
+
 ## Incidències i solucions
+
+| Incidència | Solució |
+| --- | --- |
+| La màquina no arrenca des de la ISO. | Revisar l’ordre d’arrencada i comprovar que la ISO sigui correcta. |
+| No hi ha connexió de xarxa. | Revisar la configuració de l’adaptador de xarxa de la màquina virtual o del dispositiu. |
+| La contrasenya no és acceptada. | Tornar a introduir-la i comprovar que compleixi els requisits indicats. |
 
 ## Recursos
 
